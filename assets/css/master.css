@@ -1,0 +1,17 @@
+@font-face {
+  font-family: flexo;
+  src: url('../font/Flexo/Flexo-Light.otf');
+  font-weight: normal;
+  font-size: 14px;
+}
+
+* {
+  margin: 0;
+}
+h1{
+  color: #eb6363 ;
+  padding: 10px;
+}
+.box-input{
+  position: relative;
+}
